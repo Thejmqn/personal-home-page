@@ -16,7 +16,7 @@
 				<source srcset={welcome} type="image/webp" />
 				<img src={welcomeFallback} alt="Welcome" />
 			</picture>
-		</span>
+		</span> 
 
 		to your new<br />SvelteKit app
 	</h1>
